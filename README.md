@@ -11,8 +11,6 @@
 
 ## Partial Derivatives
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-
 In mathematics, a partial derivative of a function of several variables is its derivative with respect to one of those variables, with the others held constant (as opposed to the total derivative, in which all variables are allowed to vary).
 Partial derivatives are used in vector calculus and differential geometry.
 
