@@ -14,7 +14,11 @@
 In mathematics, a partial derivative of a function of several variables is its derivative with respect to one of those variables, with the others held constant (as opposed to the total derivative, in which all variables are allowed to vary).
 Partial derivatives are used in vector calculus and differential geometry.
 
-The partial derivative of a function {\displaystyle f(x,y,\dots )}{\displaystyle f(x,y,\dots )} with respect to the variable {\displaystyle x}x is variously denoted by
+The partial derivative of a function :
+
+<img src="https://render.githubusercontent.com/render/math?math={\displaystyle f(x,y,\dots )}{\displaystyle f(x,y,\dots )}"> 
+
+with respect to the variable <img src="https://render.githubusercontent.com/render/math?math={\displaystyle x}"> is variously denoted by:
 
 
 <img src="https://render.githubusercontent.com/render/math?math={\displaystyle f'_{x},f_{x},\partial _{x}f,\ D_{x}f,D_{1}f,{\frac {\partial }{\partial x}}f,{\text{ or }}{\frac {\partial f}{\partial x}}.}{\displaystyle f'_{x},f_{x},\partial _{x}f,\ D_{x}f,D_{1}f,{\frac {\partial }{\partial x}}f,{\text{ or }}{\frac {\partial f}{\partial x}}.}">
